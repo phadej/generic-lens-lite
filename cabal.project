@@ -1,0 +1,3 @@
+packages: generic-lens-lite
+packages: generic-optics-lite
+tests: True
