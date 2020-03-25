@@ -20,7 +20,7 @@ author:        Edward Kmett, Csongor Kiss, Oleg Grenrus
 maintainer:    Oleg Grenrus <oleg.grenrus@iki.fi>
 copyright:     Copyright (c) 2019 Edward Kmett, 2020 Oleg Grenrus
 build-type:    Simple
-tested-with:   GHC ==8.0.2 || ==8.2.2 || ==8.4.4 || ==8.6.5 || ==8.8.1
+tested-with:   GHC ==8.0.2 || ==8.2.2 || ==8.4.4 || ==8.6.5 || ==8.8.3
 
 source-repository head
   type:     git
